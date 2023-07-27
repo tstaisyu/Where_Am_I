@@ -1,6 +1,6 @@
 # Project: Where Am I?
 
-<img src=https://tstaisyu.github.io/image/Where_Am_I/Screenshot_of_localized_robot.png width=500 />
+<img src=Screenshot_of_localized_robot.png width=500 />
 
 ## To start a simulation
 
