@@ -1,6 +1,6 @@
 # Project: Where Am I?
 
-<img src=Screenshot_of_localized_robot.png width=500 />
+<img src=Screenshot_of_localized_robot.png width=800 />
 
 ## To start a simulation
 
